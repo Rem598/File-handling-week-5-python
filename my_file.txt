@@ -1,0 +1,6 @@
+This is the first line of text.
+Python is fun
+These are numbers: 0123456789.
+Appending another line.
+456789
+Final line with more text and numbers: 654321888.
